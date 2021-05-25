@@ -1,0 +1,4 @@
+C:\Users\Analista\source\repos\apiGestores\apiGestores\obj\Release\netcoreapp3.1\apiGestores.AssemblyInfoInputs.cache
+C:\Users\Analista\source\repos\apiGestores\apiGestores\obj\Release\netcoreapp3.1\apiGestores.AssemblyInfo.cs
+C:\Users\Analista\source\repos\apiGestores\apiGestores\obj\Release\netcoreapp3.1\apiGestores.csproj.CoreCompileInputs.cache
+C:\Users\Analista\source\repos\apiGestores\apiGestores\obj\Release\netcoreapp3.1\apiGestores.MvcApplicationPartsAssemblyInfo.cache
